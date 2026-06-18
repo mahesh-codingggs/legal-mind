@@ -1,0 +1,6 @@
+{
+  "name": "LegalMind",
+  "description": "Analyze and explain legal documents, contracts, agreements, notices, or images in simple, plain English. Features risk highlighting, AI summaries, translations, comparative analysis, and an AI chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
